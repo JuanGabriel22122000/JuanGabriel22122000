@@ -21,5 +21,4 @@
   <a href="https://www.linkedin.com/in/juan-gabriel-lima-alves-032783163" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/JuanGabriel22122000/JuanGabriel22122000/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
